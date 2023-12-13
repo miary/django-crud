@@ -1,4 +1,6 @@
 venv
 .env
-dp.sqlite3
+db.sqlite3
 .python-version
+__pycache__/
+__init__.py
