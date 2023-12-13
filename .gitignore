@@ -1,0 +1,4 @@
+venv
+.env
+dp.sqlite3
+.python-version
